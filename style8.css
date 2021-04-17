@@ -1,0 +1,96 @@
+body {
+    background-color: rgb(255, 232, 246);
+}
+
+
+
+.box {
+    width: 50%;
+    display: flex;
+    margin: auto;
+    border-radius: 1rem;
+    height: 30em;
+    margin-top: 5em;
+    -moz-border-radius : 1rem;
+    -webkit-border-radius : 1rem;
+    box-shadow: 0 3px 20px rgba(0, 0, 0, .45);
+
+   
+
+}
+
+
+
+
+.raw1 {
+    width: 50%;
+    text-align: center;
+    box-shadow: black;
+    background-color: white;
+    border-top-left-radius: 1rem;
+    border-bottom-left-radius: 1rem;
+}
+.raw2 {
+    width: 50%;
+    text-align: center;
+    padding-top: 8em;
+    background-color: rgb(241, 66, 66);
+    color: white ;
+    position: relative;
+    border-top-right-radius: 1rem;
+    border-bottom-right-radius: 1rem;
+}
+.satauri {
+    font-family: 'Roboto', sans-serif;
+    padding-top: 1em;
+    font-weight: 900;
+}
+.logo {
+    padding-top: 1em;
+    font-size: 2em;
+}
+.alt {
+    padding-top: 1em;
+    font-weight: lighter;
+    font-family: helvetica, sans-serif;
+    margin-bottom: 0.4rem;
+    font-size: 0.85rem;
+}    
+.taro1 {
+    border: none;
+    background-color:rgb(233, 232, 232);
+    height: 2.3em;
+    width: 70%;
+    padding-left: 1rem;
+}
+.taro2 {
+    border: none;
+    background-color:rgb(233, 232, 232);
+    height: 2.3em;
+    width: 70%;
+    padding-left: 1rem;
+}
+.for{
+    font-family: Helvetica, sans-serif ;
+    font-weight: lighter;
+}
+.but {
+    width: 40%;
+    height: 2.3em;
+    background-color: rgb(243, 81, 81);
+    color: white;
+    border: none;
+    border-radius: 2rem ;
+}
+.satuu{
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.9rem;
+}
+.para{
+    font-family: Helvetica, sans-serif ;
+    font-weight: lighter;
+    color:rgb(223, 219, 219);
+    
+    
+
+}
